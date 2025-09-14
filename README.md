@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/jasonmunro/cypht/badge.svg?branch=master)](https://coveralls.io/github/jasonmunro/cypht?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Shadow243/cypht-clone/badge.svg?branch=main)](https://coveralls.io/github/Shadow243/cypht-clone?branch=main)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/127/badge)](https://bestpractices.coreinfrastructure.org/projects/127)
 
 #### Cypht
